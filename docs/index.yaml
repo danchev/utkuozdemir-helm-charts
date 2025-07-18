@@ -13,7 +13,7 @@ entries:
           image: docker.io/busybox:musl
     apiVersion: v2
     appVersion: vanilla
-    created: "2020-11-16T00:55:52.406338+01:00"
+    created: "2025-07-18T18:49:44.557346344-05:00"
     description: A Helm chart for the game Don't Starve Together based on the image
       https://github.com/Jamesits/docker-dst-server
     digest: e15e961d35a86563dd8b81ed8d580908ca19984583239f01e10e5e901ef0664a
@@ -29,7 +29,7 @@ entries:
     - dst
     - klei
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: dontstarvetogether
@@ -42,7 +42,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: vanilla
-    created: "2020-11-15T22:07:04.934295+01:00"
+    created: "2025-07-18T18:49:44.55696885-05:00"
     description: A Helm chart for the game Don't Starve Together based on the image
       https://github.com/Jamesits/docker-dst-server
     digest: 1eb170ab7f04b8dae3c4d88935a4f9072b982d2d607d41225ad71c9aac2016df
@@ -57,7 +57,7 @@ entries:
     - dontstarvetogether
     - klei
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: dontstarvetogether
@@ -70,7 +70,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: vanilla
-    created: "2020-11-15T22:07:04.93306+01:00"
+    created: "2025-07-18T18:49:44.556556751-05:00"
     description: A Helm chart for the game Don't Starve Together based on the image
       https://github.com/Jamesits/docker-dst-server
     digest: 6a1463663a35a05efcd9773c0c7a269753292c45b184645d66d675760c1aa328
@@ -81,7 +81,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: vanilla
-    created: "2020-11-15T22:07:04.930548+01:00"
+    created: "2025-07-18T18:49:44.556198473-05:00"
     description: A Helm chart for the game Don't Starve Together based on the image
       https://github.com/Jamesits/docker-dst-server
     digest: 5a1496a089b8bf5c3ce4b7d322ccdfe09c7a65f22fa9b561dbde705e19f9ebcc
@@ -100,7 +100,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.23.0
-    created: "2022-11-13T03:11:18.416853+01:00"
+    created: "2025-07-18T18:49:44.562027327-05:00"
     description: A Helm chart for the File Browser project
     digest: 8857738a28a2adc63f93dde3635b5661a13ad0db504acb19c37bf0596fe1ee48
     home: https://filebrowser.org
@@ -111,7 +111,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -131,7 +131,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.20.0
-    created: "2021-12-30T22:43:20.01328+01:00"
+    created: "2025-07-18T18:49:44.561708873-05:00"
     description: A Helm chart for the File Browser project
     digest: 31a618bbe49ede31cc0f4f39f7ad3f2e6b047799885d89002a51a7a89fa0ace7
     home: https://filebrowser.org
@@ -142,7 +142,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -163,7 +163,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.20.0
-    created: "2021-12-30T22:36:07.533606+01:00"
+    created: "2025-07-18T18:49:44.561396951-05:00"
     description: A Helm chart for the File Browser project
     digest: 18f38d6305af748ef86d3eb6e72b0c9ceff83a7e2785e117a165b9eacea1fd84
     home: https://filebrowser.org
@@ -174,7 +174,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -194,7 +194,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.20.0
-    created: "2021-12-30T21:09:54.530412+01:00"
+    created: "2025-07-18T18:49:44.561065422-05:00"
     description: A Helm chart for the File Browser project
     digest: cbe8229883dba9457631df2845fa78295a7906004e6b5d94c20b8b2c45bc4d1c
     home: https://filebrowser.org
@@ -205,7 +205,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -226,7 +226,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.18.0
-    created: "2021-11-05T23:13:38.708099Z"
+    created: "2025-07-18T18:49:44.560733844-05:00"
     description: A Helm chart for the File Browser project
     digest: a3081d913da0fafe9f5dc16c2af4caf66c8bab6e398333258610d9f0f354efe5
     home: https://filebrowser.org
@@ -237,7 +237,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -258,7 +258,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.17.2
-    created: "2021-10-18T21:46:28.689916+03:00"
+    created: "2025-07-18T18:49:44.560391635-05:00"
     description: A Helm chart for the File Browser project
     digest: 42bc020da869cc8208996e849a217c27ca5beec7c870a7bbfc0ca4c9a4093bde
     home: https://filebrowser.org
@@ -269,7 +269,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -289,7 +289,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.17.2
-    created: "2021-09-06T19:42:03.856661+03:00"
+    created: "2025-07-18T18:49:44.560067661-05:00"
     description: A Helm chart for the File Browser project
     digest: c37062459d078685071231778f53f408e03bbc0080058d791f6aaa21a0fa4d77
     home: https://filebrowser.org
@@ -300,7 +300,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -320,7 +320,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.17.2
-    created: "2021-09-02T22:54:29.548348+03:00"
+    created: "2025-07-18T18:49:44.55975101-05:00"
     description: A Helm chart for the File Browser project
     digest: aa62730b9f003ccb5775118d58c0eeed45f14a06f79d00676c7664ff5b410045
     home: https://filebrowser.org
@@ -331,7 +331,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -351,7 +351,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.17.1
-    created: "2021-08-25T00:22:21.711449+03:00"
+    created: "2025-07-18T18:49:44.559439599-05:00"
     description: A Helm chart for the File Browser project
     digest: 8e5ce01bbae60e4820d2e2f0fd032842a58ce1a9f22c2c798b07262408326bfa
     home: https://filebrowser.org
@@ -362,7 +362,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -382,7 +382,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.16.1
-    created: "2021-08-05T18:06:41.13931+02:00"
+    created: "2025-07-18T18:49:44.559102711-05:00"
     description: A Helm chart for the File Browser project
     digest: 5b7f10bdd599be25a69c914c940b2adfd53409d046d5be9f7dee7d936b9e3622
     home: https://filebrowser.org
@@ -393,7 +393,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -413,7 +413,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.16.0
-    created: "2021-07-27T22:07:52.098496+02:00"
+    created: "2025-07-18T18:49:44.558779698-05:00"
     description: A Helm chart for the File Browser project
     digest: fe0aa34264d1838a2426f609783cddede47c22d025302f2b80584a224f998b20
     home: https://filebrowser.org
@@ -424,7 +424,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -444,7 +444,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.16.0
-    created: "2021-07-26T17:38:16.929226+02:00"
+    created: "2025-07-18T18:49:44.558253487-05:00"
     description: A Helm chart for the File Browser project
     digest: 1eed71312db00afc171684af252a20fe03cb640cd1f836cf867d58d33c79a9b9
     home: https://filebrowser.org
@@ -455,7 +455,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -475,7 +475,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.15.0
-    created: "2021-05-14T01:54:11.924717+02:00"
+    created: "2025-07-18T18:49:44.557878317-05:00"
     description: A Helm chart for the File Browser project
     digest: e2aec338c6e16e58e44402ae924b04654c97bc50b36a7cf6eb9acbbfa0d86ac1
     home: https://filebrowser.org
@@ -486,7 +486,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -506,7 +506,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: v2.15.0
-    created: "2021-05-13T23:04:52.559533+02:00"
+    created: "2025-07-18T18:49:44.557608073-05:00"
     description: A Helm chart for the File Browser project
     digest: e565d2f4d92a14b57788ba61631c236d71aabe5a2d00c2e5f7628f5daec95107
     home: https://filebrowser.org
@@ -517,7 +517,7 @@ entries:
     - file-server
     - http-file-server
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: filebrowser
@@ -531,7 +531,7 @@ entries:
   gohttpserver:
   - apiVersion: v1
     appVersion: latest
-    created: "2021-11-05T23:17:59.219473Z"
+    created: "2025-07-18T18:49:44.56233471-05:00"
     description: GoHttpServer
     digest: 916eb32c1fc66548cbeebb8d1fe66e74e88789d51b28141f176f6afa7fe4166a
     name: gohttpserver
@@ -540,7 +540,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: latest
-    created: "2020-11-15T22:07:04.935138+01:00"
+    created: "2025-07-18T18:49:44.562171596-05:00"
     description: GoHttpServer
     digest: 1ca503f321b2578255fb0444235796c14673d3c1ab0172272e1751d6f8f318f8
     name: gohttpserver
@@ -565,7 +565,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 4d17829cf6b15b004ad3f4be196303dca4944810
-    created: "2021-11-05T23:25:08.487056Z"
+    created: "2025-07-18T18:49:44.579496155-05:00"
     dependencies:
     - condition: mysql.deployChart
       name: mysql
@@ -587,7 +587,7 @@ entries:
     - webscraping
     - rss
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: huginn
@@ -617,7 +617,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 4d17829cf6b15b004ad3f4be196303dca4944810
-    created: "2021-03-12T01:19:46.174189+01:00"
+    created: "2025-07-18T18:49:44.576209664-05:00"
     dependencies:
     - condition: mysql.deployChart
       name: mysql
@@ -639,7 +639,7 @@ entries:
     - webscraping
     - rss
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: huginn
@@ -669,7 +669,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 4d17829cf6b15b004ad3f4be196303dca4944810
-    created: "2021-03-08T23:46:42.62865+01:00"
+    created: "2025-07-18T18:49:44.572806175-05:00"
     dependencies:
     - condition: mysql.deployChart
       name: mysql
@@ -691,7 +691,7 @@ entries:
     - webscraping
     - rss
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: huginn
@@ -718,7 +718,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 4d17829cf6b15b004ad3f4be196303dca4944810
-    created: "2021-03-08T20:21:06.658303+01:00"
+    created: "2025-07-18T18:49:44.569467547-05:00"
     dependencies:
     - condition: mysql.deployChart
       name: mysql
@@ -740,7 +740,7 @@ entries:
     - webscraping
     - rss
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: huginn
@@ -764,7 +764,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 4d17829cf6b15b004ad3f4be196303dca4944810
-    created: "2021-03-07T20:12:47.940398+01:00"
+    created: "2025-07-18T18:49:44.566042748-05:00"
     dependencies:
     - condition: mysql.install
       name: mysql
@@ -782,7 +782,7 @@ entries:
     - webscraping
     - rss
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: huginn
@@ -806,7 +806,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 4d17829cf6b15b004ad3f4be196303dca4944810
-    created: "2021-03-07T00:09:47.657549+01:00"
+    created: "2025-07-18T18:49:44.564274299-05:00"
     dependencies:
     - condition: mysql.install
       name: mysql
@@ -824,7 +824,7 @@ entries:
     - webscraping
     - rss
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: huginn
@@ -845,7 +845,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.7
-    created: "2021-12-31T15:43:11.648975+01:00"
+    created: "2025-07-18T18:49:44.584828844-05:00"
     description: Jellyfin Helm chart
     digest: d2a7ce09d693bf5154a9642aa897ab48cc31f0b457b3785da64950d78264c9f3
     home: https://jellyfin.org
@@ -858,7 +858,7 @@ entries:
     - video
     - kodi
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -878,7 +878,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.7-1-ls130
-    created: "2021-12-06T20:33:46.693139+01:00"
+    created: "2025-07-18T18:49:44.584442874-05:00"
     description: Jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: 293e4e11bd9993d919842fee236a5fc134032f45edd6495892a17143c65069eb
@@ -890,7 +890,7 @@ entries:
     - streaming
     - video
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -910,7 +910,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.7-1-ls130
-    created: "2021-11-05T23:28:29.312355Z"
+    created: "2025-07-18T18:49:44.584133336-05:00"
     description: Jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: 0139e381757e2c3d3eb1d0cbe6594f02a34b436f02ae7c6f7c9b64a232cd2a7b
@@ -922,7 +922,7 @@ entries:
     - streaming
     - video
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -942,7 +942,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.7-1-ls130
-    created: "2021-09-06T10:39:06.67042+03:00"
+    created: "2025-07-18T18:49:44.583820483-05:00"
     description: Jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: e248277ba6df6a6913e57e6767584ac70b84ef73fb86df7a48fb654ecbcf754c
@@ -954,7 +954,7 @@ entries:
     - streaming
     - video
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -974,7 +974,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.6-1-ls118
-    created: "2021-06-20T22:18:39.815662+02:00"
+    created: "2025-07-18T18:49:44.583515844-05:00"
     description: Jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: dc41281b23f62970aaff9b0b0a4cc9c39f2020a207969b678f50ca602e19b8c8
@@ -986,7 +986,7 @@ entries:
     - streaming
     - video
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -1006,7 +1006,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.5-1-ls111
-    created: "2021-05-05T09:46:32.466755+02:00"
+    created: "2025-07-18T18:49:44.583180649-05:00"
     description: Jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: 120dc8e89b3aef093eed389f5ea4c703ef66a54d1373478a18e25cae4a684be9
@@ -1018,7 +1018,7 @@ entries:
     - streaming
     - video
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -1038,7 +1038,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.2-1-ls105
-    created: "2021-04-13T18:26:42.632513+02:00"
+    created: "2025-07-18T18:49:44.582558949-05:00"
     description: Jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: 4d9b31862fb20a7594c1481dc400aa91258ddd24782b237df186922c0ed156c5
@@ -1050,7 +1050,7 @@ entries:
     - streaming
     - video
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -1070,7 +1070,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.2-1-ls105
-    created: "2021-04-12T16:01:34.045057+02:00"
+    created: "2025-07-18T18:49:44.582172198-05:00"
     description: Jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: 45e2af95c61ad59b1860b8849e5702523fb3807cf07a772a77c6f179624f5033
@@ -1082,7 +1082,7 @@ entries:
     - streaming
     - video
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -1102,7 +1102,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.1-1-ls102
-    created: "2021-03-22T17:23:00.556086+01:00"
+    created: "2025-07-18T18:49:44.581886885-05:00"
     description: Jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: c383628731ff75542782c3694dd210cc1715a6a5789f62367e9dded2d1a59e65
@@ -1114,7 +1114,7 @@ entries:
     - streaming
     - video
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -1134,7 +1134,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 10.7.0-1-ls99
-    created: "2021-03-09T11:58:00.25626+01:00"
+    created: "2025-07-18T18:49:44.581607274-05:00"
     description: jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: f2226555392af480a3e563ec87b23cd816ee7d70414e58b8cfc64c27eed13f03
@@ -1146,7 +1146,7 @@ entries:
     - streaming
     - video
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: jellyfin
@@ -1159,7 +1159,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 10.6.4-1-ls82
-    created: "2020-11-15T22:07:04.946253+01:00"
+    created: "2025-07-18T18:49:44.58129968-05:00"
     description: jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: b2a82e80b5deb9e9692d6a9a266d017b27eac648e881a54ac80dc3b2c84f7736
@@ -1170,7 +1170,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 10.6.4-1-ls71
-    created: "2020-11-15T22:07:04.94503+01:00"
+    created: "2025-07-18T18:49:44.581018325-05:00"
     description: jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: 45b4d0cb73fe0e1abb044cf671ac1d1ee3f8d50c56485079d49edfbb6832ab70
@@ -1181,7 +1181,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 10.6.3-1-ls69
-    created: "2020-11-15T22:07:04.943724+01:00"
+    created: "2025-07-18T18:49:44.58069958-05:00"
     description: jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: e82d46d8ead897269985fe21fc35a9c9bed77542a0662314851fa4cf94dd00c5
@@ -1192,7 +1192,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 10.6.2-1-ls67
-    created: "2020-11-15T22:07:04.942503+01:00"
+    created: "2025-07-18T18:49:44.580486263-05:00"
     description: jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: 8b51a81f0223eb27598f4e71e1bc0676c6f2ef258bf7866823468909aa8c545a
@@ -1203,7 +1203,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 10.6.1-1-ls65
-    created: "2020-11-15T22:07:04.941292+01:00"
+    created: "2025-07-18T18:49:44.580284145-05:00"
     description: jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: 04b28a217ed1b569895fecf73d04856f227ed57ba0c85f53658e221acc816083
@@ -1214,7 +1214,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 10.6.0-2-ls63
-    created: "2020-11-15T22:07:04.940093+01:00"
+    created: "2025-07-18T18:49:44.580101044-05:00"
     description: jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: 0e2b20ec12ba8f15d93e121994bc8809e93423c000c520ec84c216b81d814ce6
@@ -1225,7 +1225,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: v10.5.5-ls52
-    created: "2020-11-15T22:07:04.938724+01:00"
+    created: "2025-07-18T18:49:44.57990593-05:00"
     description: jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: ba95b4c272bd06a0100477b3ba2a5e2e4fb5adcdea619aea73c7afa3863ccd0a
@@ -1236,7 +1236,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: v10.5.5-ls51
-    created: "2020-11-15T22:07:04.93665+01:00"
+    created: "2025-07-18T18:49:44.579693023-05:00"
     description: jellyfin Helm chart that is based on linuxserver/jellyfin Docker
       image.
     digest: cd83eaca916842da9f91ff11784f0d0cc7166be6685ec2ca3a4d8d780e20bef8
@@ -1248,6 +1248,40 @@ entries:
   nvidia-gpu-exporter:
   - annotations:
       artifacthub.io/changes: |
+        - Bump appVersion to 1.3.2
+        - Release 1.0.1 of the chart
+      artifacthub.io/images: |
+        - name: utkuozdemir/nvidia_gpu_exporter
+          image: docker.io/utkuozdemir/nvidia_gpu_exporter:1.3.2
+      artifacthub.io/license: MIT
+    apiVersion: v2
+    appVersion: 1.3.2
+    created: "2025-07-18T18:49:44.587422312-05:00"
+    description: Nvidia GPU exporter for prometheus using nvidia-smi binary to gather
+      metrics.
+    digest: 9c4182fdd0a0af7ee774de3bdb5711e963b8b869ce31ef706d4477b11a53ffcf
+    home: https://github.com/utkuozdemir/nvidia_gpu_exporter
+    icon: https://utkuozdemir.org/helm-charts/nvidia.png
+    keywords:
+    - nvidia
+    - gpu
+    - exporter
+    - nvidia-smi
+    - nvidia-gpu-exporter
+    - prometheus
+    maintainers:
+    - email: utkuozdemir@gmail.com
+      name: Utku Özdemir
+      url: https://utkuozdemir.org
+    name: nvidia-gpu-exporter
+    sources:
+    - https://github.com/utkuozdemir/helm-charts
+    type: application
+    urls:
+    - https://utkuozdemir.org/helm-charts/nvidia-gpu-exporter-1.0.1.tgz
+    version: 1.0.1
+  - annotations:
+      artifacthub.io/changes: |
         - Add hostNetwork to the DS and make svc opt-out
         - Bump appVersion to 1.2.1
         - Release 1.0.0 of the chart
@@ -1257,7 +1291,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 1.2.1
-    created: "2024-07-01T22:31:52.596816+02:00"
+    created: "2025-07-18T18:49:44.587070886-05:00"
     description: Nvidia GPU exporter for prometheus using nvidia-smi binary to gather
       metrics.
     digest: c5b99cc69e32c5753eb3bab80d1e068dadfb4cf22cf8838d0701027f12650b09
@@ -1290,7 +1324,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2021-09-03T18:13:49.212699+03:00"
+    created: "2025-07-18T18:49:44.586709502-05:00"
     description: Nvidia GPU exporter for prometheus using nvidia-smi binary to gather
       metrics.
     digest: 3acbda7a6b549170fdffeee0401f062a3de8484e0d74abf18ecaf5ac1fa35db7
@@ -1304,7 +1338,7 @@ entries:
     - nvidia-gpu-exporter
     - prometheus
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: nvidia-gpu-exporter
@@ -1326,7 +1360,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-09-02T20:31:39.329611+03:00"
+    created: "2025-07-18T18:49:44.586356534-05:00"
     description: Nvidia GPU exporter for prometheus using nvidia-smi binary to gather
       metrics.
     digest: 16187e431fc2a5ec54d8a74c17d2791d9ec3d6ab91a361168989499e865dacc2
@@ -1340,7 +1374,7 @@ entries:
     - nvidia-gpu-exporter
     - prometheus
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: nvidia-gpu-exporter
@@ -1359,7 +1393,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-07-13T21:09:40.417702+02:00"
+    created: "2025-07-18T18:49:44.58595811-05:00"
     description: Nvidia GPU exporter for prometheus using nvidia-smi binary to gather
       metrics.
     digest: f4199875850b57c8b05e3761fda973dbc638cb73bbecd8014cecc3c0a3d18500
@@ -1373,7 +1407,7 @@ entries:
     - nvidia-gpu-exporter
     - prometheus
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: nvidia-gpu-exporter
@@ -1393,7 +1427,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 0.1.7
-    created: "2021-06-24T22:22:42.541057+02:00"
+    created: "2025-07-18T18:49:44.585575146-05:00"
     description: Nvidia GPU exporter for prometheus using nvidia-smi binary to gather
       metrics.
     digest: 2b84a3f06c15a428be9a24765ba435ccb29fd49959096f8d2a955544faa4d9bc
@@ -1407,7 +1441,7 @@ entries:
     - nvidia-gpu-exporter
     - prometheus
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: nvidia-gpu-exporter
@@ -1426,7 +1460,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 0.1.5
-    created: "2021-06-20T23:11:56.368443+02:00"
+    created: "2025-07-18T18:49:44.585212499-05:00"
     description: Nvidia GPU exporter for prometheus using `nvidia-smi` binary to gather
       metrics.
     digest: 4d694e011dbe7f0bd38a91fb3d109f279fbdfdbb1977d4bac70dfac27c61e1b4
@@ -1440,7 +1474,7 @@ entries:
     - nvidia-gpu-exporter
     - prometheus
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: nvidia-gpu-exporter
@@ -1460,7 +1494,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 1.25.2
-    created: "2021-12-31T15:11:18.253236+01:00"
+    created: "2025-07-18T18:49:44.590535269-05:00"
     description: Plex Media Server Helm chart
     digest: de059b075c2d95fece367eef08f277051d3fb018438797f0f80c372f41df7d10
     home: https://www.plex.tv
@@ -1472,7 +1506,7 @@ entries:
     - streaming
     - tv
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: plex
@@ -1492,7 +1526,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 1.25.2
-    created: "2021-12-31T04:47:43.760776+01:00"
+    created: "2025-07-18T18:49:44.590193442-05:00"
     description: Plex Media Server Helm chart
     digest: 9ce7f53ec10cd989a21d971ea8dcbfb7c4e7ad59c57588cb1096e7b40151cf44
     home: https://www.plex.tv
@@ -1504,7 +1538,7 @@ entries:
     - streaming
     - tv
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: plex
@@ -1524,7 +1558,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 1.25.2
-    created: "2021-12-31T04:28:19.809429+01:00"
+    created: "2025-07-18T18:49:44.58981214-05:00"
     description: Plex Media Server Helm chart
     digest: 222be3552efe343743c0640de6b41671239868dc9e1ae15cd418fb2b5d690166
     home: https://www.plex.tv
@@ -1536,7 +1570,7 @@ entries:
     - streaming
     - tv
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: plex
@@ -1557,7 +1591,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 1.24.5.5173-8dcc73a59
-    created: "2021-11-05T23:33:32.882798Z"
+    created: "2025-07-18T18:49:44.589443312-05:00"
     description: Plex Media Server Helm chart that is based on plexinc/pms-docker
       Docker image.
     digest: 20a0d8945825d3cd94e821010014505c6c71c01056c3b80881329707e66884ad
@@ -1570,7 +1604,7 @@ entries:
     - streaming
     - tv
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: plex
@@ -1590,7 +1624,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 1.24.2.4973-2b1b51db9
-    created: "2021-09-10T22:17:41.558771+03:00"
+    created: "2025-07-18T18:49:44.589155034-05:00"
     description: Plex Media Server Helm chart that is based on plexinc/pms-docker
       Docker image.
     digest: 566681a5ce21d5ea0058c0161ec6e5e0b609d3f03b5b54e007b02c2b53cd1414
@@ -1603,7 +1637,7 @@ entries:
     - streaming
     - tv
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: plex
@@ -1627,7 +1661,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 1.22.3.4523-d0ce30438
-    created: "2021-05-13T20:50:01.812933+02:00"
+    created: "2025-07-18T18:49:44.588839696-05:00"
     description: Plex Media Server Helm chart that is based on plexinc/pms-docker
       Docker image.
     digest: a3633c9615b00ad6a56b821d4cf14c7d05ed31ea8d1770eddcd82cd6eaa4acfe
@@ -1640,7 +1674,7 @@ entries:
     - streaming
     - tv
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: plex
@@ -1653,7 +1687,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.19.2.2737-b69929dab
-    created: "2020-11-15T22:07:04.950058+01:00"
+    created: "2025-07-18T18:49:44.588068487-05:00"
     description: Plex Media Server Helm chart that is based on plexinc/pms-docker
       Docker image.
     digest: 759eed7cb8c4d71e75a46b0f97e546286783409612b15c34a0ed873c75025bfb
@@ -1664,7 +1698,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.19.1.2645-ccb6eb67e
-    created: "2020-11-15T22:07:04.948646+01:00"
+    created: "2025-07-18T18:49:44.587844419-05:00"
     description: Plex Media Server Helm chart that is based on plexinc/pms-docker
       Docker image.
     digest: d51f1a7bf74255008ac36772d37d3c0a4c8d2b73fafc2c318f23ce85f4da6d73
@@ -1675,7 +1709,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 1.16.5.1554-1e5ff713d
-    created: "2020-11-15T22:07:04.94727+01:00"
+    created: "2025-07-18T18:49:44.587617857-05:00"
     description: Plex
     digest: cf6cc48ea7f9666f65a34c21da073f2898f83f3897ba2aa0ca8579411bec238f
     name: plex
@@ -1693,7 +1727,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 6.4.0
-    created: "2021-11-05T23:36:39.786853Z"
+    created: "2025-07-18T18:49:44.591577604-05:00"
     description: Helm chart for prerender wrapping tvanro/prerender-alpine
     digest: 9e6b0b7757ed115f026d23955ad18f9394ba626e8ada35efb9c86e6fd151d56e
     home: https://github.com/prerender/prerender
@@ -1705,7 +1739,7 @@ entries:
     - headless-chrome
     - tvanro
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: prerender
@@ -1729,7 +1763,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 6.3.0
-    created: "2021-03-13T17:46:32.390017+01:00"
+    created: "2025-07-18T18:49:44.591314232-05:00"
     description: Helm chart for prerender wrapping tvanro/prerender-alpine
     digest: c180eb7f054a8d632efce5fb4878ab82cdc810ae5cb9c76de18e8d398c087f89
     home: https://github.com/prerender/prerender
@@ -1741,7 +1775,7 @@ entries:
     - headless-chrome
     - tvanro
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: prerender
@@ -1765,7 +1799,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 6.3.0
-    created: "2021-03-13T17:21:58.433135+01:00"
+    created: "2025-07-18T18:49:44.59105014-05:00"
     description: Helm chart for prerender wrapping tvanro/prerender-alpine
     digest: a698bf6a9126e0af41a61dae2aa88b12945bfb744082d4071cfc3379aca77fa8
     home: https://github.com/prerender/prerender
@@ -1777,7 +1811,7 @@ entries:
     - headless-chrome
     - tvanro
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: prerender
@@ -1798,7 +1832,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 6.2.0
-    created: "2021-03-12T01:23:29.927857+01:00"
+    created: "2025-07-18T18:49:44.590748697-05:00"
     description: Helm chart for prerender wrapping tvanro/prerender-alpine
     digest: 3d056934917d1fdee2f6eebce68c24a2ef4d64ef3832c1325ec25b84bc7557aa
     home: https://github.com/prerender/prerender
@@ -1810,7 +1844,7 @@ entries:
     - headless-chrome
     - tvanro
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: prerender
@@ -1825,7 +1859,7 @@ entries:
   restreamer:
   - apiVersion: v2
     appVersion: 0.6.4
-    created: "2021-11-05T23:39:08.970974Z"
+    created: "2025-07-18T18:49:44.592104927-05:00"
     description: Restreamer helm chart
     digest: ef5874eee97988843264317abf73a06067a8e34c30ecaee1bc1fc8388eb46acb
     name: restreamer
@@ -1835,7 +1869,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 0.6.4
-    created: "2020-11-15T22:07:04.951657+01:00"
+    created: "2025-07-18T18:49:44.591826478-05:00"
     description: Restreamer helm chart
     digest: 1f808d3297cb01f7c26649a4249e27e1b8396d0d365643108315338c3341a797
     name: restreamer
@@ -1846,7 +1880,7 @@ entries:
   transmission-exporter:
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2021-11-05T23:40:48.150292Z"
+    created: "2025-07-18T18:49:44.59269066-05:00"
     description: Transmission Exporter
     digest: cef0d54ad327eb63b88c88d84ae653b0d77e6b21cca267ee9593a22e07a800e4
     name: transmission-exporter
@@ -1855,7 +1889,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2020-11-15T22:07:04.954106+01:00"
+    created: "2025-07-18T18:49:44.592509492-05:00"
     description: Transmission Exporter
     digest: 630d16f2ecc11717d28743576cf6182a46122c98268df3fdac053ae95a2ac357
     name: transmission-exporter
@@ -1864,7 +1898,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2020-11-15T22:07:04.952952+01:00"
+    created: "2025-07-18T18:49:44.592332762-05:00"
     description: Transmission Exporter
     digest: 1ba9f2f6a6915b762efd3ff8c331920826b4d19b3db932da325c698138a7bede
     name: transmission-exporter
@@ -1881,7 +1915,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "4.0"
-    created: "2022-03-28T19:35:14.023342+02:00"
+    created: "2025-07-18T18:49:44.60082246-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 275bb281d7aa255ae8eb79130a7efa6a4af221e21393fd63034dbfa78a2f1f25
@@ -1893,7 +1927,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -1913,7 +1947,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "4.0"
-    created: "2022-01-16T17:51:54.703821+01:00"
+    created: "2025-07-18T18:49:44.600483578-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 30c45be59a7f938a5ef1738bc9ef9b13985faa6f1b0950fbf989cc38c48ca0d9
@@ -1925,7 +1959,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -1945,7 +1979,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "4.0"
-    created: "2022-01-15T13:43:47.805939+01:00"
+    created: "2025-07-18T18:49:44.600132924-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 2eb4697dd747c3f93f70c25383cc4fbf67b02a4d279c58785b26d767885b4bbb
@@ -1957,7 +1991,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -1977,7 +2011,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "4.0"
-    created: "2021-12-31T16:02:13.202012+01:00"
+    created: "2025-07-18T18:49:44.599767893-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 6feb652a54928389dcd262ed5709f0a24fb5b60927f9724f9e6ab3a84b51d69f
@@ -1989,7 +2023,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2009,7 +2043,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "4.0"
-    created: "2021-12-31T03:38:41.31707+01:00"
+    created: "2025-07-18T18:49:44.598946952-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 7f5d293d46ca1c4a54706c97b8dd2dd7d77a26660768bbccc755bb8f154e6cca
@@ -2021,7 +2055,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2041,7 +2075,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "4.0"
-    created: "2021-12-30T16:40:25.351894+01:00"
+    created: "2025-07-18T18:49:44.598599533-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: f670cbe76efe8a3c98076b32f900a78842cee8fb954f3a472ec5f36caaecc207
@@ -2053,7 +2087,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2074,7 +2108,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "4.0"
-    created: "2021-12-30T01:42:23.175688+01:00"
+    created: "2025-07-18T18:49:44.598245743-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: ed22740a51917628437b104ece8fd9bae2744fb331f9fd5c30426ecdaec578c6
@@ -2086,7 +2120,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2106,7 +2140,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "4.0"
-    created: "2021-12-29T23:32:01.487678+01:00"
+    created: "2025-07-18T18:49:44.597907011-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: fab5cbe1250af9797f4efd51bf124041187cccee73e2f1987ee99f430e4cdca2
@@ -2118,7 +2152,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2138,7 +2172,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 3.7.1
-    created: "2021-12-08T10:56:15.906701+01:00"
+    created: "2025-07-18T18:49:44.597587225-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: d9adc94e57163aaae9c8b58bfe6d9dc0120744a80cfc2c00cc7c2bdd93190098
@@ -2150,7 +2184,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2170,7 +2204,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 3.7.1
-    created: "2021-11-05T23:42:39.401771Z"
+    created: "2025-07-18T18:49:44.597264292-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 86ccc7ae7f289de6c81fbcbe4a3069b9ecea78da6d1539cedc7eb122091def48
@@ -2182,7 +2216,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2202,7 +2236,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: 3.7.1
-    created: "2021-09-04T19:04:08.112864+03:00"
+    created: "2025-07-18T18:49:44.594563604-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: f6057a215530004754537eff6e0895f0bb409084e69b7944330a5392b00012d6
@@ -2214,7 +2248,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2234,7 +2268,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "3.7"
-    created: "2021-08-05T18:08:21.301986+02:00"
+    created: "2025-07-18T18:49:44.594132019-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 384e4f1948edc17875da139e50bc147eba543702504d2161b5d29a7626a469a5
@@ -2246,7 +2280,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2266,7 +2300,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "3.6"
-    created: "2021-05-23T21:36:08.756011+02:00"
+    created: "2025-07-18T18:49:44.596934277-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: e9191c13288560ff9edc08a79d5a7a2541a0f42d8e0d65c0f91ddabf12073908
@@ -2278,7 +2312,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2298,7 +2332,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "3.6"
-    created: "2021-04-27T10:31:14.472071+02:00"
+    created: "2025-07-18T18:49:44.596625821-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 39aa16a41d67d91e040e1f391814e0b0b7a7ae51972a38bef13bf22f8d8421ef
@@ -2310,7 +2344,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2330,7 +2364,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "3.6"
-    created: "2021-03-18T20:02:10.419614+01:00"
+    created: "2025-07-18T18:49:44.596330691-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: c0650b61882e5eb288f9365db94cbeb3db59bf9f57d0c17f742e1c6b782adc02
@@ -2342,7 +2376,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2362,7 +2396,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "3.5"
-    created: "2021-03-14T21:23:36.144788+01:00"
+    created: "2025-07-18T18:49:44.596027315-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: dddfcf1329916af561297ed9b2cb97d4f4f9209655ead3066dfe5a5c1f05d09c
@@ -2374,7 +2408,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2394,7 +2428,7 @@ entries:
       artifacthub.io/license: MIT
     apiVersion: v2
     appVersion: "3.4"
-    created: "2021-03-09T17:49:01.966577+01:00"
+    created: "2025-07-18T18:49:44.595710624-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: e4d3021ae6484236ee6c81156dd2a0135a598d91c17ad9bae85440ad2e0723a9
@@ -2406,7 +2440,7 @@ entries:
     - transmission-openvpn
     - torrent
     maintainers:
-    - email: utkuozdemir@gmail.com
+    - email: uoz@protonmail.com
       name: Utku Özdemir
       url: https://utkuozdemir.org
     name: transmission-openvpn
@@ -2419,7 +2453,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: "3.4"
-    created: "2021-02-18T21:29:04.742899+01:00"
+    created: "2025-07-18T18:49:44.595409342-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 887985cf026b5a70aabc0c5e97102bdab23cc3f187bb164882c5415bf65c4217
@@ -2430,7 +2464,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: "3.1"
-    created: "2020-11-15T22:07:04.961943+01:00"
+    created: "2025-07-18T18:49:44.595154106-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: d92af34216c64d01ceceb7ccbdadeb59e3c8560f1fd17e1341bf6dfb73bf11d5
@@ -2441,7 +2475,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 3.0.1
-    created: "2020-11-15T22:07:04.9602+01:00"
+    created: "2025-07-18T18:49:44.594884413-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 2d96f4d9806748c556b4669354d545b3b17775d0e80a27ce52e5cc10a535ba57
@@ -2452,7 +2486,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: "2.13"
-    created: "2020-11-15T22:07:04.958208+01:00"
+    created: "2025-07-18T18:49:44.593373163-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: dd4401ecec13949edfa629ad3ff91211400f7de4b1070f3e6930e6bc3fad4d49
@@ -2463,7 +2497,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: "2.12"
-    created: "2020-11-15T22:07:04.956736+01:00"
+    created: "2025-07-18T18:49:44.593138756-05:00"
     description: Transmission + OpenVPN chart based on haugene/transmission-openvpn
       image
     digest: 20b539ab3202a35a4276f9d0e9e1a88b75f81b2d2d7387d9b0acbf2ba1bea3e7
@@ -2474,11 +2508,11 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: "2.7"
-    created: "2020-11-15T22:07:04.955523+01:00"
+    created: "2025-07-18T18:49:44.592922933-05:00"
     description: Transmission + OpenVPN
     digest: 41fcc45a6c5dbaeba39c550d4ee0c23b840e460e9626e1b45559db0d1c3ec0a6
     name: transmission-openvpn
     urls:
     - https://utkuozdemir.org/helm-charts/transmission-openvpn-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-01T22:31:52.595409+02:00"
+generated: "2025-07-18T18:49:44.555783328-05:00"
