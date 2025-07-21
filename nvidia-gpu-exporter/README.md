@@ -1,6 +1,6 @@
 # nvidia-gpu-exporter
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.1](https://img.shields.io/badge/AppVersion-1.2.1-informational?style=flat-square)
+![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.3.2](https://img.shields.io/badge/AppVersion-1.3.2-informational?style=flat-square)
 
 Nvidia GPU exporter for prometheus using nvidia-smi binary to gather metrics.
 
@@ -23,7 +23,7 @@ $ helm install my-release utkuozdemir/nvidia-gpu-exporter
 | hostPort.enabled | bool | `false` | Enable hostPort |
 | hostPort.port | int | `9835` | The hostPort to listen to |
 | image.pullPolicy | string | `"IfNotPresent"` | Image pull policy |
-| image.repository | string | `"docker.io/utkuozdemir/nvidia_gpu_exporter"` | Image repository |
+| image.repository | string | `"ghcr.io/utkuozdemir/nvidia_gpu_exporter"` | Image repository |
 | image.tag | string | `""` | Image tag (if not specified, defaults to the chart's appVersion) |
 | imagePullSecrets | list | `[]` | Image pull secrets |
 | ingress.annotations | object | `{}` | Annotations for the Ingress |
